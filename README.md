@@ -1,2 +1,2 @@
 # sqltxt
-A module for editing txt database files.
+A module for editing database files.
